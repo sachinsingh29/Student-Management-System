@@ -1,7 +1,6 @@
 # Student-Management-System
 Student Management System - WebApplication
 
-# Student Management System
 
 ## Overview
 The **Student Management System** is a web-based application designed to manage student data efficiently. This system allows users to add new student records, update existing ones, fetch student data by roll number, and reset the form fields. It interacts with a backend database using **JSONPowerDB (JPDB)** to store, retrieve, and update data through RESTful API calls.
